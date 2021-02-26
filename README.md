@@ -6,7 +6,7 @@ It makes actions fail when PR title contains `WIP:`.
 
 | Before             | After |
 | ------------------ | ----- |
-| ![](images/01.PNG) | ![]() |
+| ![](images/01.PNG) | ![](images/02.PNG) |
 
 ## Usages
 
