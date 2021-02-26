@@ -23,9 +23,11 @@
     "url": "https://github.com/WindSekirun/check-title-wip-actions/issues"
   },
   "homepage": "https://github.com/WindSekirun/check-title-wip-actions#readme",
-  "devDependencies": {
+  "dependencies": {
     "@actions/core": "^1.2.6",
-    "@actions/github": "^4.0.0",
+    "@actions/github": "^4.0.0"
+  },
+  "devDependencies": {
     "@types/jest": "^24.0.22",
     "tsdx": "^0.14.1",
     "tslib": "^1.10.0",
