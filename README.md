@@ -15,5 +15,8 @@ After checkout steps
 ```yaml
 steps:
   - name: Check Title
-    uses: windsekirun/check-title-wip-actions
+    uses: windsekirun/check-title-wip-actions@v1
 ```
+
+## License
+MIT License
